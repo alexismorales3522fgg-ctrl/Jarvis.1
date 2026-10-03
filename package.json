@@ -1,0 +1,13 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Asistente personal JARVIS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^5.12.0"
+  }
+}
